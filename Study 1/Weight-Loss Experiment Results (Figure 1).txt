@@ -1,0 +1,11 @@
+Weight-Loss Experiment Results (Figure 1):
+Mean mouse weight (+/- SD) at Day 0 and Day 28
+Individual weight measurements for both control and treatment groups
+Statistical significance testing results (p-values) indicated within the figure for pairwise comparisons.
+
+Figure 1. Effect of ExobeseTM on weight-loss in mice. The grey bars indicate the mean
+mouse weight (+/- SD) at day 0 and the white bars indicate the mean weights (+/- SD) at day
+28. The black circles and triangles indicate individual weight measurements. Statistical
+significance testing was performed using repeated measures two-way ANOVA and multiple
+comparisons. The p-values for the multiple comparisons are indicated within the figure for
+each pairwise comparison.

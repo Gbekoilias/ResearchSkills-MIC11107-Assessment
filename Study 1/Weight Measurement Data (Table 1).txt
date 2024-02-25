@@ -1,0 +1,12 @@
+Weight Measurement Data (Table 1):
+Animal ID
+Sex
+Age (weeks)
+Weight (g) at Day 0 (start of the experiment)
+Weight (g) at Day 28 (end of the experiment)
+
+Table 1. Raw data for weight-loss experiment. Control group and treatment group
+comprised male and female mice aged between 4-10 weeks at the start of the experiment.
+All animals were weighed before the start of the experiment (Day 0) and at the end of the
+experiment (Day 28).
+

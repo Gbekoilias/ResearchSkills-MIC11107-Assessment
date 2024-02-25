@@ -1,0 +1,13 @@
+Group,ID,Sex,Age (weeks),Weight (g) Day 0,Weight (g) Day 28
+Control,1,Female,5,18,26
+Control,2,Male,5,24,34
+Control,3,Male,5,20,28
+Control,4,Male,8,30,40
+Control,5,Male,6,21,33
+Control,6,Female,4,16,25
+Treatment,7,Male,7,22,29
+Treatment,8,Female,5,17,26
+Treatment,9,Female,5,18,23
+Treatment,10,Male,5,25,30
+Treatment,11,Female,5,20,27
+Treatment,12,Female,10,24,28

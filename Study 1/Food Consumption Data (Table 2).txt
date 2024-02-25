@@ -1,0 +1,10 @@
+Food Consumption Data (Table 2):
+Cage Number
+Number of animals in the cage
+Food consumed for each week (Week 1 to Week 4)
+Total food consumed over the experiment period
+
+Table 2. Weekly Food consumption. The experimental animals were placed in cages
+according to treatment group and sex (control and treatment animals in different cages, and
+females and males for each group into different cages. The amount of food consumed
+weekly, per cage is reported.
