@@ -8,3 +8,18 @@ Table 2. Weekly Food consumption. The experimental animals were placed in cages
 according to treatment group and sex (control and treatment animals in different cages, and
 females and males for each group into different cages. The amount of food consumed
 weekly, per cage is reported.
+
+Weekly Consumption Trends:
+Analyze the weekly food consumption trends for both the control and treatment groups. Plotting the weekly consumption over the four-week period can visually highlight any patterns or fluctuations in eating behavior.
+
+Total Food Consumption Comparison:
+Compare the total food consumption between the control and treatment groups over the entire experiment period. This analysis can provide insights into the overall impact of ExobeseTM on appetite and eating habits.
+
+Gender-based Consumption Analysis:
+Differentiate food consumption patterns based on gender within each group. Understanding if there are gender-specific differences in response to the treatment can contribute to a more nuanced interpretation of the drug's effects.
+
+Correlation with Weight Change:
+Investigate the correlation between weekly food consumption and weight change. This analysis can help determine if there is a relationship between the amount of food consumed and the observed changes in weight, providing additional context to the weight loss outcomes.
+
+Statistical Analysis of Food Consumption:
+Perform statistical tests, such as t-tests or Mann-Whitney U tests, to assess the significance of any observed differences in food consumption between the control and treatment groups. This analysis can help determine if the changes in food intake are statistically significant.

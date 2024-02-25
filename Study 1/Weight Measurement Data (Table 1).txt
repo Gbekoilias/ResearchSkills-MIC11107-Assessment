@@ -10,3 +10,20 @@ comprised male and female mice aged between 4-10 weeks at the start of the exper
 All animals were weighed before the start of the experiment (Day 0) and at the end of the
 experiment (Day 28).
 
+
+
+Descriptive Statistics:
+Calculate basic descriptive statistics such as mean, median, and standard deviation for the initial (Day 0) and final (Day 28) weights of both the control and treatment groups. This provides a summary of the central tendency and variability in the data.
+
+Percent Weight Change:
+Compute the percentage change in weight for each individual mouse by comparing their initial and final weights. This analysis will help quantify the extent of weight change in response to the ExobeseTM treatment and can aid in understanding the overall effectiveness of the drug.
+
+Group Comparison (Control vs. Treatment):
+Conduct a comparative analysis between the control and treatment groups. Compare the mean weights at both Day 0 and Day 28 to assess the overall impact of ExobeseTM on weight loss. Statistical tests, such as t-tests or Mann-Whitney U tests, can be employed to determine the significance of any observed differences.
+
+Age and Weight Correlation:
+Explore the correlation between the age of the mice and their weights at both Day 0 and Day 28. This analysis helps understand if there's any age-related influence on weight, providing additional insights into the experimental outcomes.
+
+Gender-based Analysis:
+Differentiate the weight changes based on gender within both the control and treatment groups. This can reveal any gender-specific responses to the drug, contributing to a more nuanced understanding of its effectiveness.
+
