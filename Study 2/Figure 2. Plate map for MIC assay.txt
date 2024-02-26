@@ -1,0 +1,6 @@
+Figure 2. Plate map for MIC assay and schematic illustration of the observed results.
+The bacterial pellets observed are visualised as orange circles in the wells, corresponding to the size of the observed bacterial pellet on the 96-well plate. Rows D and E, as well as columns 11 and 12 were left empty (indicated as ‘blank’ and crossed over on the plate map).
+Each concentration for control and test drugs were plated in triplicate.
+
+MIC Assay Results:
+Data related to the Minimum Inhibitory Concentration (MIC) assay against Staphylococcus aureus, including concentrations of control antibiotic (Vancomycin) and the test drug compound, observations of bacterial growth, and the corresponding 96-well plate map

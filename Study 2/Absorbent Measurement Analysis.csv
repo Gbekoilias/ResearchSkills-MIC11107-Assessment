@@ -1,0 +1,13 @@
+Group,96-well position,Absorbance
+Control,B2,0.55
+Control,B3,0.8
+Control,B4,0.65
+Control,B5,0.6
+Control,B6,0.54
+Control,B7,0.4
+Treated,C2,0.35
+Treated,C3,0.4
+Treated,C4,0.24
+Treated,C5,0.5
+Treated,C6,0.4
+Treated,C7,0.35

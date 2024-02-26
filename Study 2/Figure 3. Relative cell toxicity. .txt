@@ -1,0 +1,6 @@
+Figure 3. Relative cell toxicity. 
+The bars represent mean relative absorbance +/- SD for untreated control cells (white bars) and treated cells (grey bars. P=0.0036, as calculated using the one-tailed Student’s t-test.
+
+
+Cell Toxicity Test Results:
+Data from the in vitro cell toxicity test using the Human Embryonic Kidney cell line (HEK293T), including absorbance measurements for control and treated cells, as well as the resulting bar graph indicating relative cell toxicity.
