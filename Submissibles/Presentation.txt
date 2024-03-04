@@ -1,0 +1,46 @@
+*Case Study 1: ExobeseTM for Obesity*
+Case Study 1 evaluates ExobeseTM for obesity treatment. Initial weights, food consumption, and gender-based weight changes are recorded over 28 days for two group, Control and Treatment group, each having the same number of test subjects
+
+*Analysis Breakdown*
+   a. Weight Change Analysis:
+      - Control group starts at 21.5g, treatment group at 21.0g.
+      - Control gains 31.0g by Day 28, treatment gains 27.17g.
+      - ExobeseTM shows consistent weight reduction, particularly in the control group.
+
+   b. Group Comparison
+      - Control group exhibits a mean weight change of 9.5, treatment group 6.17.
+      - Males in control gain more weight than females; treatment group shows no gender disparity.
+      - Statistical tests (T-test, Mann-Whitney U) support ExobeseTM's effectiveness with P-value which support the Null Hypothesis (ExobeseTM is effective for Obsesity Treatment)
+
+  *Conclusion from data interpretation*
+   "ExobeseTM demonstrates potential for weight reduction, but improvements in sample diversity and a placebo group are vital for robust results."
+
+   *Discussion of Experimental Design Weaknesses:*
+      - Sample size discrepancies, limited mouse strain representation, and absence of a placebo group are the weaknesses highlighted from this experimental method and data analysis provided.
+      - Proposed improvements: equalizing group sizes, including various mouse strains, refining appetite assessment, and adding a placebo control group.
+
+ *Proposed Solution/Plan:*
+   "To address these, we suggest equalizing group sizes, diversifying mouse strains, refining appetite assessment, and introducing a placebo control group for reliable outcomes."
+
+
+
+*Case Study 2: Novel Bioactive Compound*
+Moving to Case Study 2, we explore the antimicrobial effects and cell toxicity of a novel bioactive compound. Absorbance values and bacterial growth data are recorded
+
+*Analysis Breakdown:*
+   a. Cell Toxicity Analysis:
+      - Treatment group shows lower mean absorbance (0.373333) compared to the control group (0.590000).
+      - One-tailed t-test p-value of 0.0036 supports potential protective effects against cell toxicity.
+
+*b. Bacterial Growth and MIC Assay:*
+      - Dose-dependent relationship observed in bacterial growth.
+      - Statistically significant differences in mean absorbance support potential cytotoxic effects.
+
+*Conclusion*
+   "The novel bioactive compound exhibits lower cell toxicity and potential antimicrobial properties. 
+
+*Observed Limitation:*
+   "Dependence on a single concentration, absence of dose-response data, and lack of statistical analysis in the MIC assay."
+
+*Proposed Solution/Plan:*
+  To enhance robustness, we recommend testing multiple dilutions in cell toxicity, including a control group with DMSO in the MIC assay, and applying rigorous statistical methods for comprehensive analysis.
